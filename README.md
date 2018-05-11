@@ -1,5 +1,5 @@
 # BRCOIN -Blockchain-Explorer
-Block explorer for Nióbio Cash CryptoNote based cryptocurrency.
+Block explorer for BRCOIN  CryptoNote based cryptocurrency.
 
 #### Installation
 
